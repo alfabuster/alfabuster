@@ -22,7 +22,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3 align="left">root@alfabuster:~# whoami</h3>
-      <p>I am a volunteer, automator, and a fan of order and minimalism. Former seafarer turned cybersecurity specialist. Currently mastering Information Security at Netology.</p>
+      <p>I am an automator, and a fan of order and minimalism. Former seafarer turned cybersecurity specialist. Currently mastering Information Security at Netology.</p>
       <ul>
         <li><b>[+]</b> <b>Focus:</b> Penetration Testing, Web App Security, and Linux Privilege Escalation.</li>
         <li><b>[+]</b> <b>Automation:</b> Building n8n pipelines and API integrations. Manual work is a bug, not a feature.</li>
