@@ -94,14 +94,10 @@
 <h3 align="center">root@alfabuster:~# htop -u alfabuster</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alfabuster&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  
   <br><br>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=alfabuster&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" height="195" alt="GitHub Stats" />
-  </a>
+  
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=alfabuster&theme=catppuccin_mocha&hide_border=true&background=1e1e2e" height="195" alt="GitHub Streak" />
   </a>
