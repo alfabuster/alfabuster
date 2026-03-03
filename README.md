@@ -62,7 +62,8 @@
 | **Pre Security** | TryHackMe | Completed foundational security path. | Jan 2026 |
 
 </div>
-<center><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6735337" style='border:none;'></iframe></center>
+<center><img src="https://tryhackme-badges.s3.amazonaws.com/alfabuster.png" alt="Your Image Badge" />
+</center>
 
 ---
 
