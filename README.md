@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=32&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello,+friend.;Are+you+a+1+or+a+0?;We+are+fsociety.;No+system+is+safe." alt="Hello, friend." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=32&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello,+friend.;Are+you+a+1+or+a+0?;No+system+is+safe." alt="Hello, friend." />
 </div>
 
 <div align="center">
