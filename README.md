@@ -64,9 +64,9 @@
 
 | Perms | Owner | Size | Directory / Platform | Description & Status |
 | :--- | :--- | :---: | :--- | :--- |
-| `drwxr-x---` | root | 4.0K | 📁 **[HackTheBox](https://github.com/alfabuster/HackTheBox)** | Initializing... Ready for HTB machine walkthroughs. |
-| `drwxr-x---` | root | 4.0K | 📁 **[TryHackMe](https://github.com/alfabuster/TryHackMe)** | Initializing... Ready for THM room writeups. |
-| `drwxr-x---` | root | 4.0K | 📁 **[AcLabs](https://github.com/alfabuster/Aclabs)** | Initializing... Web Security Academy lab reports. |
+| `drwxr-xr--` | root | 4.0K | 📁 **[HackTheBox](https://github.com/alfabuster/HackTheBox)** | Initializing... Ready for HTB machine walkthroughs. |
+| `drwxr-xr--` | root | 4.0K | 📁 **[TryHackMe](https://github.com/alfabuster/TryHackMe)** | Initializing... Ready for THM room writeups. |
+| `drwxr-xr--` | root | 4.0K | 📁 **[AcLabs](https://github.com/alfabuster/Aclabs)** | Initializing... Web Security Academy lab reports. |
 
 
 </div>
