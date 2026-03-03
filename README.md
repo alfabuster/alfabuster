@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=32&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello,+friend.;Are+you+a+1+or+a+0?;No+system+is+safe." alt="Hello, friend." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=32&duration=4000&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=Hello,+friend.;Are+you+a+1+or+a+0?;No+system+is+safe." alt="Hello, friend." />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=alfabuster&fontSize=70&fontColor=00FF00&fontAlignY=50&desc=Penetration%20Tester%20|%20CTF%20Player%20|%20Automator&descAlignY=85&descAlign=50" alt="alfabuster" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=alfabuster&fontSize=70&fontColor=89b4fa&fontAlignY=50&desc=Penetration%20Tester%20|%20CTF%20Player%20|%20Automator&descAlignY=85&descAlign=50" alt="alfabuster" />
 </div>
 
 <div align="center">
-  <a href="mailto:alfabuster@gmail.com"><img src="https://img.shields.io/badge/Email-alfabuster%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000" alt="Email"></a>
-  <a href="https://t.me/alfabuster"><img src="https://img.shields.io/badge/Telegram-@alfabuster-000000?style=for-the-badge&logo=telegram&logoColor=00FF00&labelColor=000000"></a>
-  <a href="https://alfabuster.com"><img src="https://img.shields.io/badge/Blog-alfabuster.com-000000?style=for-the-badge&logo=ghost&logoColor=00FF00&labelColor=000000"></a>
-  <a href="https://habr.com/ru/users/seobuster/"><img src="https://img.shields.io/badge/Habr-seobuster-000000?style=for-the-badge&logo=habr&logoColor=00FF00&labelColor=000000"></a>
-  <a href="https://tryhackme.com/p/alfabuster"><img src="https://img.shields.io/badge/TryHackMe-alfabuster-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF00&labelColor=000000"></a>
+  <a href="mailto:alfabuster@gmail.com"><img src="https://img.shields.io/badge/Email-alfabuster%40gmail.com-181825?style=for-the-badge&logo=gmail&logoColor=cba6f7&labelColor=1e1e2e" alt="Email"></a>
+  <a href="https://t.me/alfabuster"><img src="https://img.shields.io/badge/Telegram-@alfabuster-181825?style=for-the-badge&logo=telegram&logoColor=89b4fa&labelColor=1e1e2e"></a>
+  <a href="https://alfabuster.com"><img src="https://img.shields.io/badge/Blog-alfabuster.com-181825?style=for-the-badge&logo=ghost&logoColor=f38ba8&labelColor=1e1e2e"></a>
+  <a href="https://habr.com/ru/users/seobuster/"><img src="https://img.shields.io/badge/Habr-seobuster-181825?style=for-the-badge&logo=habr&logoColor=89b4fa&labelColor=1e1e2e"></a>
+  <a href="https://tryhackme.com/p/alfabuster"><img src="https://img.shields.io/badge/TryHackMe-alfabuster-181825?style=for-the-badge&logo=tryhackme&logoColor=cdd6f4&labelColor=1e1e2e"></a>
 </div>
 
 <br>
@@ -82,11 +82,11 @@
   </a>
   <br><br>
   <p><b>Exploitation & Automation</b></p>
-  <code><img height="28" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=000000"></code>
-  <code><img height="28" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000"></code>
-  <code><img height="28" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=scan&logoColor=white&labelColor=000000"></code>
-  <code><img height="28" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000"></code>
-  <code><img height="28" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=000000"></code>
+  <code><img height="28" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=1e1e2e&labelColor=fab387&color=fab387"></code>
+  <code><img height="28" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=1e1e2e&labelColor=89b4fa&color=89b4fa"></code>
+  <code><img height="28" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=scan&logoColor=1e1e2e&labelColor=cba6f7&color=cba6f7"></code>
+  <code><img height="28" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=1e1e2e&labelColor=74c7ec&color=74c7ec"></code>
+  <code><img height="28" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=1e1e2e&labelColor=f38ba8&color=f38ba8"></code>
 </div>
 
 ---
@@ -95,15 +95,15 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alfabuster&theme=gitdark&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alfabuster&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
   <br><br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=alfabuster&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alfabuster&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=alfabuster&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00" height="195" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alfabuster&theme=catppuccin_mocha&hide_border=true&background=1e1e2e" height="195" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -119,10 +119,12 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfabuster&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfabuster&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alfabuster&style=for-the-badge&color=000000&labelColor=00FF00" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=alfabuster&style=for-the-badge&color=cba6f7&labelColor=1e1e2e" alt="Profile Views">
 </div>
