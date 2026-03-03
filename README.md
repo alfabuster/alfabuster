@@ -16,12 +16,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfabuster&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
 ---
 
 <table align="center" width="100%">
@@ -60,10 +54,9 @@
 | **ACLabs CTF 5th Season** | ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | Feb 2026 |
 | **Cyber Security 101** | TryHackMe | Completed the 45-hour learning path. | Feb 2026 |
 | **Pre Security** | TryHackMe | Completed foundational security path. | Jan 2026 |
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/alfabuster.png" alt="Your Image Badge" />
 </div>
-<center><img src="https://tryhackme-badges.s3.amazonaws.com/alfabuster.png" alt="Your Image Badge" />
-</center>
+
 
 ---
 
@@ -109,6 +102,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfabuster/alfabuster/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alfabuster/alfabuster/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfabuster&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 </div>
 
 <div align="center">
