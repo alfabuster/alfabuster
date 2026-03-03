@@ -57,6 +57,20 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/alfabuster.png" alt="Your Image Badge" />
 </div>
 
+<h3 align="center">root@alfabuster:~# ls -la /opt/writeups/</h3>
+<p align="center"><i>Repository structure for future CTF and lab walkthroughs.</i></p>
+
+<div align="center">
+
+| Perms | Owner | Size | Directory / Platform | Description & Status |
+| :--- | :--- | :---: | :--- | :--- |
+| `drwxr-x---` | root | 4.0K | 📁 **[HackTheBox](https://github.com/alfabuster/HackTheBox)** | Initializing... Ready for HTB machine walkthroughs. |
+| `drwxr-x---` | root | 4.0K | 📁 **[TryHackMe](https://github.com/alfabuster/TryHackMe)** | Initializing... Ready for THM room writeups. |
+| `drwxr-x---` | root | 4.0K | 📁 **[VulnHub](https://github.com/alfabuster/VulnHub)** | Initializing... VulnHub VM boot2root solutions. |
+| `drwxr-x---` | root | 4.0K | 📁 **[PortSwigger](https://github.com/alfabuster/PortSwigger)** | Initializing... Web Security Academy lab reports. |
+| `drwxr-x---` | root | 4.0K | 📁 **[CTF-Archive](https://github.com/alfabuster/CTF-Writeups)** | Active. Contains ACLabs and other competition writeups. |
+
+</div>
 
 ---
 
