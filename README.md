@@ -40,10 +40,10 @@
       <h3 align="left">root@alfabuster:~# cat /var/log/latest_posts</h3>
       <p><i>Fetching recent data from Habr & Ghost CMS...</i></p>
       <ul>
-        <li><a href="#">[✓] Race Conditions in CTF & Practical InfoSec</a></li>
-        <li><a href="#">[✓] Nmap & Burp Suite: A Beginner's Guide</a></li>
-        <li><a href="#">[✓] Automating OSINT with n8n</a></li>
-        <li><a href="#">[✓] Writeup: 8th Place in ACLabs</a></li>
+        <li><a href="https://habr.com/ru/articles/1003642/">[✓] Writeup: 8th Place in ACLabs</a></li>
+        <li><a href="https://alfabuster.com/how-to-migrate-ghost-cms-to-a-vps-with-fastpanel-and-keep-your-sanity-intact/">[✓] How to Migrate Ghost CMS to a VPS with FASTPANEL (And Keep Your Sanity Intact)</a></li>
+        <li><a href="https://alfabuster.com/the-ultimate-n8n-docker-setup-guide-2025-because-zapier-is-too-mainstream-and-expensive/">[✓] The Ultimate n8n Docker Setup Guide 2025: Because Zapier is Too Mainstream (And Expensive)</a></li>
+        <li><a href="https://alfabuster.com/ultimate-ubuntu-24-04-vps-security-setup-guide-how-to-not-get-hacked-in-2025/">[✓] Ultimate Ubuntu 24.04 VPS Security Setup Guide: How to Not Get Hacked in 2025</a></li>
       </ul>
       </td>
   </tr>
