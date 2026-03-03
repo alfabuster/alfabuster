@@ -84,7 +84,7 @@
   <p><b>Exploitation & Automation</b></p>
   <code><img height="28" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=000000"></code>
   <code><img height="28" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000"></code>
-  <code><img height="28" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=000000"></code>
+  <code><img height="28" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=scan&logoColor=white&labelColor=000000"></code>
   <code><img height="28" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000"></code>
   <code><img height="28" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=000000"></code>
 </div>
