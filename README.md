@@ -78,7 +78,7 @@
 <div align="center">
   <p><b>Core Subsystems</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,python,html,css,js,git,nginx,docker,wordpress,mysql,vscodium,ai, &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,python,html,css,js,git,nginx,docker,wordpress,mysql,vscodium,ai&theme=dark" />
   </a>
   <br><br>
   <p><b>Exploitation & Automation</b></p>
