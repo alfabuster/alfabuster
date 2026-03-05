@@ -81,12 +81,13 @@
     <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,python,html,css,js,git,nginx,docker,wordpress,mysql,vscodium,ai&theme=dark" />
   </a>
   <br><br>
-  <p><b>Exploitation & Automation</b></p>
+  <p><b>Often used tools</b></p>
   <code><img height="28" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=1e1e2e&labelColor=fab387&color=fab387"></code>
   <code><img height="28" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=1e1e2e&labelColor=89b4fa&color=89b4fa"></code>
   <code><img height="28" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=scan&logoColor=1e1e2e&labelColor=cba6f7&color=cba6f7"></code>
   <code><img height="28" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=1e1e2e&labelColor=74c7ec&color=74c7ec"></code>
   <code><img height="28" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=1e1e2e&labelColor=f38ba8&color=f38ba8"></code>
+  <code><img height="28" src="https://img.shields.io/badge/Void_Linux-209fb5?style=for-the-badge&logo=voidlinux&logoColor=1e1e2e&labelColor=#209fb5&color=##209fb5"></code>
 </div>
 
 ---
