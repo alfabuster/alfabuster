@@ -55,7 +55,7 @@
 | **ACLabs CTF 5th Season** | ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | February 13-22, 2026 |
 | **Cyber Security 101** | TryHackMe | Completed the 45-hour learning path. | February 4, 2026 |
 | **Pre Security** | TryHackMe | Completed foundational security path. | January 24, 2026 |
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/alfabuster.png" alt="Your Image Badge" />
 </div>
 
 <h3 align="center">root@alfabuster:~# ls -la /opt/writeups/</h3>
