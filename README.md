@@ -51,9 +51,10 @@
 
 | Event / Certification | Platform | Details | Date |
 | :--- | :---: | :--- | :---: |
-| **ACLabs CTF 5th Season** | ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | Feb 2026 |
-| **Cyber Security 101** | TryHackMe | Completed the 45-hour learning path. | Feb 2026 |
-| **Pre Security** | TryHackMe | Completed foundational security path. | Jan 2026 |
+| **Jr Penetration Tester** | TryHackMe | Completed the 30-hour course. Learn the necessary skills to start a career as a penetration tester. | March 11, 2026 |
+| **ACLabs CTF 5th Season** | ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | February 13-22, 2026 |
+| **Cyber Security 101** | TryHackMe | Completed the 45-hour learning path. | February 4, 2026 |
+| **Pre Security** | TryHackMe | Completed foundational security path. | January 24, 2026 |
 <img src="https://tryhackme-badges.s3.amazonaws.com/alfabuster.png" alt="Your Image Badge" />
 </div>
 
