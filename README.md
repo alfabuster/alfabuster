@@ -80,7 +80,7 @@
 |:---:|:---|:---|
 | <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="36" alt="HTB"> | **[Hack-The-Box Walkthroughs](https://github.com/alfabuster/HackTheBox)** | Walkthroughs of Hack The Box machines |
 | <img src="https://cdn.simpleicons.org/tryhackme/F0F0F0" width="36" alt="THM"> | **[Try-Hack-Me Walkthroughs](https://github.com/alfabuster/TryHackMe-Writeups)** | Walkthroughs of TryHackMe rooms |
-| <img src="https://cdn.simpleicons.org/acm/cba6f7" width="36" alt="ACLabs"> | **[ACLabs Writeups](https://github.com/alfabuster/Aclabs)** | Walkthroughs of ACLabs CTF challenges |
+| <img src="https://github.com/alfabuster/Aclabs-pro-Writeups/blob/main/logo.svg" width="36" alt="ACLabs"> | **[ACLabs Writeups](https://github.com/alfabuster/Aclabs)** | Walkthroughs of ACLabs CTF challenges |
 
 </div>
 
