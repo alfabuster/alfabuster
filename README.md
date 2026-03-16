@@ -42,13 +42,13 @@
 
 <div align="center">
 
-[✓ Writeup: 8th Place in ACLabs](https://habr.com/ru/articles/1003642/)
+[✓ Writeup: CTF from ACLabs.pro](https://habr.com/ru/articles/1003642/)
 
-[✓ How to Migrate Ghost CMS to a VPS with FASTPANEL](https://alfabuster.com/how-to-migrate-ghost-cms-to-a-vps-with-fastpanel-and-keep-your-sanity-intact/)
+[✓ How to Migrate Ghost CMS to a VPS with FASTPANEL (And Keep Your Sanity Intact)](https://alfabuster.com/how-to-migrate-ghost-cms-to-a-vps-with-fastpanel-and-keep-your-sanity-intact/)
 
-[✓ The Ultimate n8n Docker Setup Guide 2025](https://alfabuster.com/the-ultimate-n8n-docker-setup-guide-2025-because-zapier-is-too-mainstream-and-expensive/)
+[✓ The Ultimate n8n Docker Setup Guide 2025: Because Zapier is Too Mainstream (And Expensive)](https://alfabuster.com/the-ultimate-n8n-docker-setup-guide-2025-because-zapier-is-too-mainstream-and-expensive/)
 
-[✓ Ultimate Ubuntu 24.04 VPS Security Setup Guide](https://alfabuster.com/ultimate-ubuntu-24-04-vps-security-setup-guide-how-to-not-get-hacked-in-2025/)
+[✓ Ultimate Ubuntu 24.04 VPS Security Setup Guide: How to Not Get Hacked in 2025](https://alfabuster.com/ultimate-ubuntu-24-04-vps-security-setup-guide-how-to-not-get-hacked-in-2025/)
 
 </div>
 
