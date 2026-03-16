@@ -20,7 +20,7 @@
 
 <h3 align="center">root@alfabuster:~# whoami</h3>
 
-<p align="center">I am an automator, and a fan of order and minimalism. Former seafarer turned cybersecurity specialist. Currently mastering Information Security at Netology.</p>
+<p align="center">Former seafarer turned cybersecurity specialist. Currently mastering Information Security at Netology. I am an automator, and a fan of order and minimalism.</p>
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 **`[+] Community:`** Running and managing [proigrok.ru](https://proigrok.ru) (CS2 guides, UI/UX).
 
-**`[+] Status:`** I learn faster than most people reinstall Windows. Digging into logs and someone else's broken code is my comfort zone.
+**`[+] Status:`** Security Researcher. Open to pentesting opportunities.
 
 </div>
 
