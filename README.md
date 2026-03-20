@@ -65,9 +65,29 @@
 | **Cyber Security 101** — TryHackMe | Completed the 45-hour learning path. | Feb 2026 |
 | **Pre Security** — TryHackMe | Completed foundational security path. | Jan 2026 |
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/alfabuster.png" alt="TryHackMe Badge" />
-
 </div>
+
+<details>
+<summary><b>📜 Jr Penetration Tester — Certificate</b></summary>
+<br>
+<img src="assets/certs/jr-penetration-tester.png" width="700" alt="Jr Penetration Tester Certificate">
+</details>
+<details>
+<summary><b>🏆 ACLabs CTF 5th Season — Certificate</b></summary>
+<br>
+<img src="assets/certs/aclabs-ctf-5.png" width="700" alt="ACLabs CTF 5th Season Certificate">
+</details>
+<details>
+<summary><b>📜 Cyber Security 101 — Certificate</b></summary>
+<br>
+<img src="assets/certs/cyber-security-101.png" width="700" alt="Cyber Security 101 Certificate">
+</details>
+<details>
+<summary><b>📜 Pre Security — Certificate</b></summary>
+<br>
+<img src="assets/certs/pre-security.png" width="700" alt="Pre Security Certificate">
+</details>
+
 
 ---
 
@@ -82,7 +102,7 @@
 | <img src="https://cdn.simpleicons.org/tryhackme/F0F0F0" width="50" alt="THM"> | **[Try-Hack-Me Walkthroughs](https://github.com/alfabuster/TryHackMe-Writeups)** | Walkthroughs of TryHackMe rooms |
 | <img src="https://github.com/alfabuster/Aclabs-pro-Writeups/blob/main/logo.svg" width="50" alt="ACLabs"> | **[ACLabs Writeups](https://github.com/alfabuster/Aclabs)** | Walkthroughs of ACLabs CTF challenges |
 | <img src="https://github.com/alfabuster/Standoff-365-Writeups/blob/main/Standoff_365.jpg" width="50" alt="ACLabs"> | **[Standoff 365 Writeups](https://github.com/alfabuster/Standoff-365-Writeups)** | Walkthroughs of Standoff 365 events |
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/alfabuster.png" alt="TryHackMe Badge" />
 </div>
 
 ---
