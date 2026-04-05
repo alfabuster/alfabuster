@@ -60,6 +60,7 @@
 
 | Certification | Details | Date |
 | :--- | :--- | :---: |
+| **Web Application Pentesting** — TryHackMe | Completed the 31-hour course. Learn how to perform security assessments of web applications. | Apr 2026 |
 | **Jr Penetration Tester** — TryHackMe | Completed the 30-hour course. Learn the necessary skills to start a career as a penetration tester. | Mar 2026 |
 | **ACLabs CTF 5th Season** — ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | Feb 2026 |
 | **Cyber Security 101** — TryHackMe | Completed the 45-hour learning path. | Feb 2026 |
@@ -67,6 +68,12 @@
 
 </div>
 
+
+<details>
+<summary><b>📜 Web Application Pentesting — Certificate</b></summary>
+<br>
+<img src="assets/certs/web-application-pentesting.png" width="700" alt="Web Application Pentesting Certificate">
+</details>
 <details>
 <summary><b>📜 Jr Penetration Tester — Certificate</b></summary>
 <br>
