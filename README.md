@@ -107,7 +107,7 @@
 <details>
 <summary><b>🏆 ACLabs CTF 6th Season — Certificate</b></summary>
 <br>
-<img src="assets/certs/aclabs-ctf-5.png" width="700" alt="ACLabs CTF 5th Season Certificate">
+<img src="assets/certs/aclabs-CTF-6th-season.png" width="700" alt="ACLabs CTF 6th Season Certificate">
 </details>
 
 <details>
