@@ -62,7 +62,6 @@
 | :--- | :--- | :---: |
 | **Web Application Pentesting** — TryHackMe | Completed the 31-hour course. Learn how to perform security assessments of web applications. | Apr 2026 |
 | **Jr Penetration Tester** — TryHackMe | Completed the 30-hour course. Learn the necessary skills to start a career as a penetration tester. | Mar 2026 |
-| **ACLabs CTF 5th Season** — ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | Feb 2026 |
 | **Cyber Security 101** — TryHackMe | Completed the 45-hour learning path. | Feb 2026 |
 | **Pre Security** — TryHackMe | Completed foundational security path. | Jan 2026 |
 
@@ -80,11 +79,6 @@
 <img src="assets/certs/jr-penetration-tester.png" width="700" alt="Jr Penetration Tester Certificate">
 </details>
 <details>
-<summary><b>🏆 ACLabs CTF 5th Season — Certificate</b></summary>
-<br>
-<img src="assets/certs/aclabs-ctf-5.png" width="700" alt="ACLabs CTF 5th Season Certificate">
-</details>
-<details>
 <summary><b>📜 Cyber Security 101 — Certificate</b></summary>
 <br>
 <img src="assets/certs/cyber-security-101.png" width="700" alt="Cyber Security 101 Certificate">
@@ -93,6 +87,33 @@
 <summary><b>📜 Pre Security — Certificate</b></summary>
 <br>
 <img src="assets/certs/pre-security.png" width="700" alt="Pre Security Certificate">
+</details>
+
+
+---
+
+<h3 align="center">root@alfabuster:~# ./CTF-activity.sh</h3>
+
+<div align="center">
+
+| Certification | Details | Date |
+| :--- | :--- | :---: |
+| **ACLabs CTF 6th Season** — ACLabs | **6th Place** out of global competitors. (Crypto, Forensics, Linux, OSINT, Stego, Web). | Apr 2026 |
+| **ACLabs CTF 5th Season** — ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | Feb 2026 |
+
+
+</div>
+
+<details>
+<summary><b>🏆 ACLabs CTF 6th Season — Certificate</b></summary>
+<br>
+<img src="assets/certs/aclabs-ctf-5.png" width="700" alt="ACLabs CTF 5th Season Certificate">
+</details>
+
+<details>
+<summary><b>🏆 ACLabs CTF 5th Season — Certificate</b></summary>
+<br>
+<img src="assets/certs/aclabs-ctf-5.png" width="700" alt="ACLabs CTF 5th Season Certificate">
 </details>
 
 
