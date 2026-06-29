@@ -98,11 +98,18 @@
 
 | Certification | Details | Date |
 | :--- | :--- | :---: |
+| **ACLabs CTF 7th Season** — ACLabs | **2th Place** out of global competitors. (AD, Crypto, Forensics, Linux, Windows, Tunneling, Stego, Web). | Jun 2026 |
 | **ACLabs CTF 6th Season** — ACLabs | **6th Place** out of global competitors. (Crypto, Forensics, Linux, OSINT, Stego, Web). | Apr 2026 |
 | **ACLabs CTF 5th Season** — ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | Feb 2026 |
 
 
 </div>
+
+<details>
+<summary><b>🏆 ACLabs CTF 7th Season — Certificate</b></summary>
+<br>
+<img src="assets/certs/aclabs-CTF-7th-season.png" width="700" alt="ACLabs CTF 7th Season Certificate">
+</details>
 
 <details>
 <summary><b>🏆 ACLabs CTF 6th Season — Certificate</b></summary>
