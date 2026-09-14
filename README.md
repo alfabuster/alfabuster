@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=alfabuster&fontSize=70&fontColor=89b4fa&fontAlignY=50&desc=Penetration%20Tester%20|%20CTF%20Player%20|%20Automator&descAlignY=85&descAlign=50" alt="alfabuster" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=alfabuster&fontSize=70&fontColor=89b4fa&fontAlignY=50&desc=%20DevSecOps%20|%20Penetration%20Tester%20|%20CTF%20Player%20|%20Automator&descAlignY=85&descAlign=50" alt="alfabuster" />
 </div>
 
 <div align="center">
@@ -138,6 +138,20 @@
 | <img src="https://github.com/alfabuster/Standoff-365-Writeups/blob/main/Standoff_365.jpg" width="50" alt="ACLabs"> | **[Standoff 365 Writeups](https://github.com/alfabuster/Standoff-365-Writeups)** | Walkthroughs of Standoff 365 events |
 | <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="50" alt="HTB"> | **[Hack-The-Box Walkthroughs](https://github.com/alfabuster/HackTheBox)** | Walkthroughs of Hack The Box machines |
 </div>
+
+---
+
+<div align="center">
+
+### `root@alfabuster:~# ls -la /srv/devops/`
+
+*Infrastructure & automation projects.*
+
+</div>
+
+| | Repository | Description |
+|:-:|:--|:--|
+| ⚙️ | **[devops-camp-cloudru-2025-writeup](https://github.com/alfabuster/devops-camp-cloudru-2025-writeup)** | End-to-end pipeline: echo-service → Docker → Ansible → Kubernetes (Cloud.ru DevOps Camp 2025) |
 
 ---
 
