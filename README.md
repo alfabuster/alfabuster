@@ -98,13 +98,21 @@
 
 | Certification | Details | Date |
 | :--- | :--- | :---: |
-| **KubSTU CTF 2026:Autumn** | **22th Place**  in the Open league ranking. (Web, Crypto, Forensics, OSINT, Stegano, Misc). | Oct 2026| 
+| **Solar CTF 2026** | Solar’s first student cybersecurity competition. (Web, Crypto, Forensics, OSINT, Reverse, Misc). | Oct 2026 |
+| **KubSTU CTF 2026:Autumn** | **22th Place**  in the Open league ranking. (Web, Crypto, Forensics, OSINT, Stegano, Misc). | Oct 2026 | 
 | **ACLabs CTF 7th Season** — ACLabs | **2th Place** out of global competitors. (AD, Crypto, Forensics, Linux, Windows, Tunneling, Stego, Web). | Jun 2026 |
 | **ACLabs CTF 6th Season** — ACLabs | **6th Place** out of global competitors. (Crypto, Forensics, Linux, OSINT, Stego, Web). | Apr 2026 |
 | **ACLabs CTF 5th Season** — ACLabs | **8th Place** out of global competitors. (AD, Crypto, Forensics, Linux, OSINT, Stego, Web). | Feb 2026 |
 
 
 </div>
+
+
+<details>
+<summary><b>🏆 Solar CTF 2026 — Certificate</b></summary>
+<br>
+<img src="assets/certs/solar_ctf_2026.png" width="700" alt="Solar CTF 2026 — Certificate">
+</details>
 
 <details>
 <summary><b>🏆 KubSTU CTF 2026:Autumn — Certificate</b></summary>
