@@ -12,7 +12,7 @@
   <a href="https://alfabuster.com"><img src="https://img.shields.io/badge/Blog-alfabuster.com-181825?style=for-the-badge&logo=ghost&logoColor=f38ba8&labelColor=1e1e2e" alt="Blog"></a>
   <a href="https://habr.com/ru/users/seobuster/"><img src="https://img.shields.io/badge/Habr-seobuster-181825?style=for-the-badge&logo=habr&logoColor=89b4fa&labelColor=1e1e2e" alt="Habr"></a>
   <a href="https://tryhackme.com/p/alfabuster"><img src="https://img.shields.io/badge/TryHackMe-alfabuster-181825?style=for-the-badge&logo=tryhackme&logoColor=cdd6f4&labelColor=1e1e2e" alt="TryHackMe"></a>
-  <a href="https://app.hackthebox.com/users/3071989"><img src="https://img.shields.io/badge/Hack_The_Box-alfabuster-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"></a>
+  <a href="https://app.hackthebox.com/users/3071989"><img src="https://img.shields.io/badge/Hack_The_Box-alfabuster-181825?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"></a>
 </div>
 
 <br>
